@@ -9,7 +9,7 @@ body { /* can also be whatever container */
   
   #wrapper {
     background-color: aqua;
-    max-width:  .2em;
-    max-height: .2em;
+    max-width:  500px;
+    max-height: 500px;
     font-size: 1.5rem;
   }
